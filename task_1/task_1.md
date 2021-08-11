@@ -1,7 +1,7 @@
 
 # Task 1 
 
-1. A screenshot of the account
+1. A screenshot of the accout.
 ![1 (1)](account.png)
 
 2. A link to the Layer 1 address you funded on the Testnet Explorer.
